@@ -1,12 +1,12 @@
 # Unit Testing Framework for Data Structures (DSA – JUnit Testing)
 
-## 📌 Overview
+##  Overview
 This project implements fundamental **Data Structures and Algorithms (DSA)** in Java with a strong focus on **unit testing using JUnit**.  
 The goal is to ensure correctness, robustness, and reliability of operations through automated test cases and continuous integration.
 
 ---
 
-## 🛠️ Features
+##  Features
 -  Java implementations of **Stack, Queue, Linked List, and Binary Search**  
 -  **JUnit test cases** covering standard and edge cases  
 -  Validation for scenarios like **overflow, underflow, null inputs, and invalid indices**  
