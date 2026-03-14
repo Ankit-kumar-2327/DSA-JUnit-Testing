@@ -23,5 +23,5 @@ LinkedListTest: insert, delete, search, null handling
 
 BinarySearchTest: valid searches, invalid inputs, boundary checks
 
-Author - Ankit Kumar,  IIIT GUWAHATI
+Author - Ankit Kumar, BTech (ECE) IIIT GUWAHATI
 
